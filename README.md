@@ -1,126 +1,145 @@
 <h1 align="center">Hi 👋, I'm Arth Gameti</h1>
 
-<h3 align="center">
-Data Analytics | Machine Learning | AI Enthusiast | Data Science Learner
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2CB&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Data+Analytics+Learner;AI+%26+Data+Driven+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2CB&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;AI+%26+Analytics+Learner;DSA+%26+Problem+Solving+Enthusiast" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🔹 Passionate about turning data into meaningful insights  
-🔹 Interested in Machine Learning, AI & Predictive Analytics  
-🔹 Currently learning Data Science & Advanced Analytics  
-🔹 Love solving real-world problems using data  
-🔹 Exploring Python, ML Models, Visualization & Big Data  
+🔹 Passionate about Data Analytics, AI & Machine Learning  
+🔹 Skilled in Python, SQL, MERN Stack & Data Visualization  
+🔹 Interested in solving real-world problems using Data & AI  
+🔹 Currently building scalable applications and intelligent systems  
+🔹 Exploring Deep Learning, NLP & Advanced Data Science  
 
 ---
 
 # 🧠 Skills & Technologies
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 </p>
 
-### 📊 Data Analytics & Visualization
+---
+
+## 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css" />
 </p>
+
+- MERN Stack Development  
+- REST APIs  
+- Backend Development  
+- Responsive UI Design  
+
+---
+
+## 📊 Data Analytics & Visualization
 
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
 - Power BI  
+- Tableau  
 - Excel  
-- SQL  
+- SQL Analytics  
 
-### 🤖 Machine Learning & AI
+---
+
+## 🤖 Machine Learning & AI
+
 - Scikit-learn  
+- XGBoost  
 - Regression Models  
 - Classification Models  
-- Data Preprocessing  
+- Clustering  
+- NLP  
+- Feature Engineering  
 - Model Evaluation  
-- Exploratory Data Analysis (EDA)
+- Deep Learning Basics  
 
-### ⚙️ Tools & Platforms
+---
+
+## ⚡ DSA & Problem Solving
+
+- Data Structures & Algorithms  
+- OOP Concepts  
+- Problem Solving  
+- Optimization Techniques  
+
+---
+
+## ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,googlecloud" />
 </p>
+
+- Jupyter Notebook  
+- Google Colab  
+- Power BI  
+- Tableau  
+- Git & GitHub  
+- VS Code  
+- Postman  
 
 ---
 
 # 🚀 Projects
 
-## 📈 Sales Data Analytics Dashboard
-- Analyzed sales data using Python & Power BI
-- Built dashboards for business insights
-- Performed trend analysis & KPI tracking
+## 🏠 House Price Prediction
+- Built ML regression pipeline using XGBoost & Scikit-learn
+- Applied feature engineering & hyperparameter tuning
+- Improved prediction accuracy significantly
 
-## 🤖 Machine Learning Prediction System
-- Built ML models for prediction & classification
-- Data cleaning, preprocessing & feature engineering
-- Model training and evaluation
+## 📰 Fake News Detection System
+- NLP-based classification model using TF-IDF
+- Achieved high accuracy using Logistic Regression
+- Implemented preprocessing & text vectorization
 
-## 📊 Data Visualization Project
-- Created interactive charts & reports
-- Used Python libraries for storytelling with data
+## 📊 Customer Segmentation Analysis
+- Performed clustering using K-Means
+- Identified customer groups for business insights
+- Visualized analytics using Seaborn & Matplotlib
+
+## 🌐 MERN Stack Applications
+- Developed full-stack web applications
+- Built REST APIs & responsive frontends
+- Worked with MongoDB, Express, React & Node.js
 
 ---
 
 # 📚 Currently Learning
 
 - Deep Learning  
-- NLP (Natural Language Processing)  
 - Generative AI  
-- Advanced Machine Learning  
-- Big Data Technologies  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
+- LLM Applications  
+- Advanced DSA  
+- Cloud & Big Data Technologies  
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://www.linkedin.com/in/ArthGameti/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<a href="mailto:arthgameti8330@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
+
+<a href="https://github.com/ArthGameti" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
 </p>
 
 ---
 
-# 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00C2CB&style=flat" />
-</p>
-
----
-
-<h3 align="center">✨ Transforming Data into Intelligence ✨</h3>
+<h3 align="center">✨ Turning Data Into Intelligent Solutions ✨</h3>
