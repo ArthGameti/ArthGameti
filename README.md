@@ -1,124 +1,159 @@
 <h1 align="center">Hi 👋, I'm Arth Gameti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2CB&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;AI+%26+Analytics+Learner;DSA+%26+Problem+Solving+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2CB&center=true&vCenter=true&width=900&lines=Aspiring+MLOps+Engineer;Learning+DevOps+%26+Cloud;Data+Science+%26+Machine+Learning+Enthusiast;Building+Scalable+AI+Applications" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🔹 Passionate about Data Analytics, AI & Machine Learning  
-🔹 Skilled in Python, SQL, MERN Stack & Data Visualization  
-🔹 Interested in solving real-world problems using Data & AI  
-🔹 Currently building scalable applications and intelligent systems  
-🔹 Exploring Deep Learning, NLP & Advanced Data Science  
+🔹 Passionate about **DevOps, MLOps, Cloud Computing & AI**  
+🔹 Currently learning **Docker, Kubernetes, CI/CD, Linux, GitHub Actions & Cloud Technologies**  
+🔹 Strong foundation in **Data Science, Machine Learning & Data Analytics**  
+🔹 Experience in **Python, SQL, Machine Learning, and Web Development (MERN Stack)**  
+🔹 Interested in building scalable, automated, and production-ready ML systems  
+🔹 Continuously exploring **Cloud Infrastructure, Model Deployment, Monitoring & Automation**
 
 ---
 
 # 🧠 Skills & Technologies
 
 ## 👨‍💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql,bash" />
 </p>
+
+---
+
+## ☁️ DevOps & Cloud (Learning)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,aws" />
+</p>
+
+- Docker
+- Kubernetes
+- Linux
+- Git & GitHub
+- GitHub Actions
+- CI/CD Concepts
+- Shell Scripting
+- AWS (Learning)
+
+---
+
+## 🤖 MLOps & Machine Learning
+
+- Model Deployment
+- ML Pipelines
+- Model Versioning
+- Scikit-learn
+- XGBoost
+- Regression
+- Classification
+- Feature Engineering
+- Model Evaluation
+- Deep Learning Basics
+- NLP
+
+---
+
+## 📊 Data Science & Analytics
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
 ---
 
 ## 🌐 Web Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css" />
 </p>
 
-- MERN Stack Development  
-- REST APIs  
-- Backend Development  
-- Responsive UI Design  
-
----
-
-## 📊 Data Analytics & Visualization
-
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Power BI  
-- Tableau  
-- Excel  
-- SQL Analytics  
-
----
-
-## 🤖 Machine Learning & AI
-
-- Scikit-learn  
-- XGBoost  
-- Regression Models  
-- Classification Models  
-- Clustering  
-- NLP  
-- Feature Engineering  
-- Model Evaluation  
-- Deep Learning Basics  
-
----
-
-## ⚡ DSA & Problem Solving
-
-- Data Structures & Algorithms  
-- OOP Concepts  
-- Problem Solving  
-- Optimization Techniques  
+- MERN Stack Development
+- REST APIs
+- Backend Development
+- Responsive UI
+- Authentication
+- API Integration
 
 ---
 
 ## ⚙️ Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
 
-- Jupyter Notebook  
-- Google Colab  
-- Power BI  
-- Tableau  
-- Git & GitHub  
-- VS Code  
-- Postman  
+- VS Code
+- Postman
+- Jupyter Notebook
+- Google Colab
+- Git & GitHub
+- Docker
+- Linux
 
 ---
 
 # 🚀 Projects
 
-## 🏠 House Price Prediction
-- Built ML regression pipeline using XGBoost & Scikit-learn
-- Applied feature engineering & hyperparameter tuning
-- Improved prediction accuracy significantly
+## 🤖 Machine Learning Projects
 
-## 📰 Fake News Detection System
-- NLP-based classification model using TF-IDF
-- Achieved high accuracy using Logistic Regression
-- Implemented preprocessing & text vectorization
+- House Price Prediction
+- Fake News Detection
+- Customer Segmentation
+- Data Analytics Dashboards
+- Machine Learning Models using Scikit-learn & XGBoost
 
-## 📊 Customer Segmentation Analysis
-- Performed clustering using K-Means
-- Identified customer groups for business insights
-- Visualized analytics using Seaborn & Matplotlib
+---
 
-## 🌐 MERN Stack Applications
-- Developed full-stack web applications
-- Built REST APIs & responsive frontends
-- Worked with MongoDB, Express, React & Node.js
+## 🌐 Full Stack Development
+
+- Developed MERN Stack Applications
+- Built REST APIs
+- Integrated Frontend & Backend
+- Worked with MongoDB, Express.js, React.js & Node.js
+
+---
+
+## 🚀 DevOps & MLOps Journey
+
+Currently building projects involving:
+
+- Docker Containerization
+- Kubernetes Deployments
+- CI/CD Pipelines
+- ML Model Deployment
+- Cloud Infrastructure
+- Infrastructure Automation
+- Monitoring & Logging
 
 ---
 
 # 📚 Currently Learning
 
-- Deep Learning  
-- Generative AI  
-- LLM Applications  
-- Advanced DSA  
-- Cloud & Big Data Technologies  
+- DevOps
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- AWS
+- Terraform
+- MLOps
+- ML Model Deployment
+- Monitoring & Observability
 
 ---
 
@@ -142,4 +177,6 @@
 
 ---
 
-<h3 align="center">✨ Turning Data Into Intelligent Solutions ✨</h3>
+<h3 align="center">
+🚀 Learning DevOps • Building MLOps • Applying AI • Creating Scalable Solutions
+</h3>
